@@ -1,7 +1,7 @@
 # dr_mauro
 
 * DR. Mauro
-:a Dr Mario clone written as final project for Programming Course CT0304
+: a Dr Mario clone written as final project for Programming Course CT0304
 
 ** Usage
 Fill the =drmauro.c= file:
