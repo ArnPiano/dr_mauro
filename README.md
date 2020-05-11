@@ -1,7 +1,7 @@
 # dr_mauro
 
 * DR. Mauro
-CT0304 Programming Course Project: Dr Mario clone, a videogame written in C as final project
+:a Dr Mario clone written as final project for Programming Course CT0304
 
 ** Usage
 Fill the =drmauro.c= file:
